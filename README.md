@@ -10,6 +10,6 @@ Modified Poisson and least-squares regression analyses for binary outcomes have 
 
 ## Installation
 
-Please download "rqlm_4.1-1.tar.gz" and install it by R menu: "packages" -> "Install package(s) from local files...".
+Please download "rqlm_4.2-1.tar.gz" and install it by R menu: "packages" -> "Install package(s) from local files...".
 
-Download: [please click this link](https://github.com/nomahi/rqlm/raw/main/rqlm_4.1-1.tar.gz)
+Download: [please click this link](https://github.com/nomahi/rqlm/raw/main/rqlm_4.2-1.tar.gz)
